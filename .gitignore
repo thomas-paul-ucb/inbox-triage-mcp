@@ -12,6 +12,7 @@ venv/
 # Data
 data/*.db
 data/*.sqlite3
+data/token.json
 
 # OS / editor
 .DS_Store
