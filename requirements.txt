@@ -1,3 +1,4 @@
 anthropic
 mcp
-python-dotenvrequests
+python-dotenv
+requests
